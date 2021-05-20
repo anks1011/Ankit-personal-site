@@ -1,2 +1,2 @@
-I have made my first webiste using html.Webiste is about personal and acadmic detail me.
+It's my first webiste made using html.Webiste is about my personal and acadmic detail .
 Its my first not the last.
